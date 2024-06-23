@@ -1,4 +1,6 @@
-﻿// Função para fonte de tensão ideal
+﻿module FontesTensao
+
+// Função para fonte de tensão ideal
 let fonteTensaoIdeal (V: float) (R: float) : float =
     V
 

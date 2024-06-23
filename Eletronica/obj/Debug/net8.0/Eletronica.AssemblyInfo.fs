@@ -10,7 +10,7 @@ open System.Reflection
 [<assembly: System.Reflection.AssemblyCompanyAttribute("Eletronica")>]
 [<assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")>]
 [<assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")>]
-[<assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")>]
+[<assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6daea90bbfde7539d57558804ef8ce875aee57fd")>]
 [<assembly: System.Reflection.AssemblyProductAttribute("Eletronica")>]
 [<assembly: System.Reflection.AssemblyTitleAttribute("Eletronica")>]
 [<assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")>]

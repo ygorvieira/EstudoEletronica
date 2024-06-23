@@ -27,3 +27,4 @@ C:\PROJETOS\FSharp\Eletronica\Eletronica\Eletronica\obj\Debug\net8.0\refint\Elet
 C:\PROJETOS\FSharp\Eletronica\Eletronica\Eletronica\obj\Debug\net8.0\Eletronica.pdb
 C:\PROJETOS\FSharp\Eletronica\Eletronica\Eletronica\obj\Debug\net8.0\Eletronica.genruntimeconfig.cache
 C:\PROJETOS\FSharp\Eletronica\Eletronica\Eletronica\obj\Debug\net8.0\ref\Eletronica.dll
+C:\PROJETOS\FSharp\Eletronica\Eletronica\Eletronica\obj\Debug\net8.0\Eletronica.sourcelink.json
